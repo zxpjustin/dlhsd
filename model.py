@@ -5,7 +5,8 @@ from itertools import islice
 import random
 import csv
 import tensorflow as tf
-import tensorflow.contrib.slim as slim
+# import tensorflow.contrib.slim as slim
+import tf_slim as slim
 from time import time
 import json
 import pandas as pd 
